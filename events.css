@@ -1,0 +1,28 @@
+.colorChange {
+	color: blue;
+}
+.embiggen {
+	font-size: 4em;
+}
+
+.borderIt {
+	border: 2px solid grey;
+}
+
+.roundIt {
+	border: 2px solid grey;
+	border-radius: 10px;
+}
+.section1 {
+font-weight: bold;
+}
+
+.lastSection {
+font-style: italic; 
+font-weight: bold;
+}
+
+button {
+	display: block;
+}
+
